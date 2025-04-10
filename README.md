@@ -9,7 +9,7 @@
   🖥️ Stream in Hindi | Tamil | Telugu | Bengali | English | Japanese & more!<br/>
   🎮 Join our Discord for Live Anime Watch Parties!<br/>
   <br/>
-  🌐 Website: <a href="https://anime-world.pro/">demo.sylexnode.tech</a> <br/>
+  🌐 Website: <a href="https://anime-world.pro/">anime-world.pro</a> <br/>
   💬 Discord: <a href="https://discord.gg/QqhENSXFdq">Join Now</a>
 </p>
 
